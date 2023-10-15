@@ -14,3 +14,6 @@ reference the component. Importing object and field references ensures that your
 
 We define the handleSuccess event handler for the sucess event. handleSuccess is executed when the save operation succeeds. 
 We show a toad message by firing ShowToastEvent, in which event.detail.di is a reference to the id propery of the newly created record.
+
+
+<img width="1198" alt="Screenshot 2023-10-15 at 4 08 50 PM" src="https://github.com/mehul715/LWC_contactCreator/assets/24465930/ff7b5a88-625a-4bfc-83b7-982d137c76c5">
